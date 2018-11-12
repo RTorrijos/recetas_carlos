@@ -1,4 +1,4 @@
 echo "hola mundo"
 echo" saludos desde Acciona"
-sleep5
+sleep 5
 exit 1
